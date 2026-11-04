@@ -4,13 +4,35 @@ Curated links for single-cell foundation models, recent papers, and benchmark/an
 
 Last updated: 2026-11-04
 
-## Core model papers and projects
+## Expanded model index
 
-- scGPT (paper): https://arxiv.org/abs/2305.10399
-- scGPT (code): https://github.com/bowang-lab/scGPT
-- Geneformer (paper): https://www.biorxiv.org/content/10.1101/2023.03.16.532770v1
-- Geneformer (code): https://github.com/AllenInstitute/Geneformer
-- scBERT-related benchmark context: https://arxiv.org/abs/2609.23325v1
+Current tracked model count: **10**
+
+### Canonical models (paper + project links)
+
+- **scGPT**  
+  paper: https://arxiv.org/abs/2305.10399  
+  code: https://github.com/bowang-lab/scGPT
+
+- **Geneformer**  
+  paper: https://www.biorxiv.org/content/10.1101/2023.03.16.532770v1  
+  code: https://github.com/AllenInstitute/Geneformer
+
+- **scBERT**  
+  benchmark/follow-up context: https://arxiv.org/abs/2609.23325v1  
+  related pretraining context: https://arxiv.org/abs/2306.04371v1
+
+### Benchmark-tracked single-cell foundation models
+
+The following model names are explicitly benchmarked together in:
+https://arxiv.org/abs/2607.17227v2
+
+- **Nicheformer**
+- **CellPLM**
+- **scGPT-spatial**
+- **GenePT**
+- **scELMo**
+- **Novae**
 
 ## Recent papers (2025-2026)
 
@@ -24,14 +46,10 @@ Last updated: 2026-11-04
   https://arxiv.org/abs/2603.02952v1
 - Attribution-based diagnostics for single-cell foundation models  
   https://arxiv.org/abs/2611.02335v2
+- Transcoder-based Circuit Analysis for Interpretable Single-Cell Foundation Models  
+  https://arxiv.org/abs/2509.14723v1
 
 ## Notes
 
 - This repository is link-first and intentionally lightweight.
-- If you want, I can next split this into:
-  - `papers/` by year
-  - `models/` with canonical model cards
-  - a script to auto-refresh new arXiv links.
-
-- Transcoder-based Circuit Analysis for Interpretable Single-Cell Foundation Models  
-  https://arxiv.org/abs/2509.14723v1
+- For some benchmark-tracked models, canonical public repos/papers are still fragmented across preprints and benchmark reports; this list keeps verifiable links first.
