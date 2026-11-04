@@ -32,3 +32,6 @@ Last updated: 2026-11-04
   - `papers/` by year
   - `models/` with canonical model cards
   - a script to auto-refresh new arXiv links.
+
+- Transcoder-based Circuit Analysis for Interpretable Single-Cell Foundation Models  
+  https://arxiv.org/abs/2509.14723v1
