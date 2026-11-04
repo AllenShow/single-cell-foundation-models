@@ -6,9 +6,9 @@ Last updated: 2026-11-04
 
 ## Expanded model index
 
-Current tracked model count: **10**
+Current tracked model count: **16**
 
-### Canonical models (paper + project links)
+### Canonical / directly model-centric papers
 
 - **scGPT**  
   paper: https://arxiv.org/abs/2305.10399  
@@ -19,12 +19,33 @@ Current tracked model count: **10**
   code: https://github.com/AllenInstitute/Geneformer
 
 - **scBERT**  
-  benchmark/follow-up context: https://arxiv.org/abs/2609.23325v1  
-  related pretraining context: https://arxiv.org/abs/2306.04371v1
+  related pretraining context: https://arxiv.org/abs/2306.04371v1  
+  benchmark/follow-up discussion: https://arxiv.org/abs/2609.23325v1
 
-### Benchmark-tracked single-cell foundation models
+- **scFoundation**  
+  paper: https://arxiv.org/abs/2604.14838v1
 
-The following model names are explicitly benchmarked together in:
+- **scHyena**  
+  paper: https://arxiv.org/abs/2310.02713v1
+
+- **Cell2Sentence**  
+  paper: https://arxiv.org/abs/2509.14723v1
+
+- **PAST**  
+  paper: https://arxiv.org/abs/2507.06418v1
+
+- **Language-Enhanced Representation Learning for Single-Cell Transcriptomics**  
+  paper: https://arxiv.org/abs/2503.09427v4
+
+- **Contrastive Learning Enhances Language Model Based Cell Embeddings for Low-Sample Single Cell Transcriptomics**  
+  paper: https://arxiv.org/abs/2509.23543v1
+
+- **Discovering Interpretable Biological Concepts in Single-cell RNA-seq Foundation Models**  
+  paper: https://arxiv.org/abs/2510.25807v1
+
+### Benchmark-tracked / related single-cell foundation models
+
+The following model names are frequently discussed together in recent benchmark and follow-up work, notably:
 https://arxiv.org/abs/2607.17227v2
 
 - **Nicheformer**
@@ -38,6 +59,16 @@ https://arxiv.org/abs/2607.17227v2
 
 - Mix-Geneformer: Unified Representation Learning for Human and Mouse scRNA-seq Data  
   https://arxiv.org/abs/2507.07454v1
+- PAST: A multimodal single-cell foundation model for histopathology and spatial transcriptomics in cancer  
+  https://arxiv.org/abs/2507.06418v1
+- Language-Enhanced Representation Learning for Single-Cell Transcriptomics  
+  https://arxiv.org/abs/2503.09427v4
+- Contrastive Learning Enhances Language Model Based Cell Embeddings for Low-Sample Single Cell Transcriptomics  
+  https://arxiv.org/abs/2509.23543v1
+- Discovering Interpretable Biological Concepts in Single-cell RNA-seq Foundation Models  
+  https://arxiv.org/abs/2510.25807v1
+- Transcoder-based Circuit Analysis for Interpretable Single-Cell Foundation Models  
+  https://arxiv.org/abs/2509.14723v1
 - Harmonised benchmarking of foundation models for single-cell and spatial transcriptomics reveals context-dependent generalisation  
   https://arxiv.org/abs/2607.17227v2
 - Intermediate Layers Encode Optimal Biological Representations in Single-Cell Foundation Models  
@@ -46,10 +77,11 @@ https://arxiv.org/abs/2607.17227v2
   https://arxiv.org/abs/2603.02952v1
 - Attribution-based diagnostics for single-cell foundation models  
   https://arxiv.org/abs/2611.02335v2
-- Transcoder-based Circuit Analysis for Interpretable Single-Cell Foundation Models  
-  https://arxiv.org/abs/2509.14723v1
+- scHyena: Foundation Model for Full-Length Single-Cell RNA-Seq Analysis in Brain  
+  https://arxiv.org/abs/2310.02713v1
 
 ## Notes
 
-- This repository is link-first and intentionally lightweight.
-- For some benchmark-tracked models, canonical public repos/papers are still fragmented across preprints and benchmark reports; this list keeps verifiable links first.
+- This repository is link-first and intentionally lightweight, aiming to keep a verifiable catalog of recent and benchmark-relevant single-cell foundation model work.
+- The list now includes both core model papers and benchmark/related model families that are frequently discussed in the 2025-2026 single-cell foundation-model literature.
+- For some benchmark-tracked models, canonical public repos or paper pages are still fragmented across preprints and benchmark reports; this list keeps the most verifiable links front and center.
