@@ -6,7 +6,7 @@ Last updated: 2026-11-05
 
 ## Expanded model index
 
-Current tracked model count: **30**
+Current tracked model count: **40**
 
 ### Canonical / directly model-centric papers
 
@@ -114,6 +114,44 @@ https://arxiv.org/abs/2607.17227v2
 - **Open World Knowledge Aided Single-Cell Foundation Model**  
   paper: https://arxiv.org/abs/2601.05648v1
 
+### Additional recent single-cell foundation-model entries
+
+- **Cell2Text**  
+  paper: https://arxiv.org/abs/2509.24840v2  
+  title: Cell2Text: Multimodal LLM for Generating Single-Cell Descriptions from RNA-Seq Data
+
+- **scAnyOmics**  
+  paper: https://arxiv.org/abs/2610.41399v1  
+  title: scAnyOmics: Foundation-Model Distillation for Any-to-Any Completion of Multi-omics Virtual Cells
+
+- **CellSymphony**  
+  paper: https://arxiv.org/abs/2508.10232v1  
+  title: CellSymphony: Deciphering the molecular and phenotypic orchestration of cells with single-cell pathomics
+
+- **CytoFormer**  
+  paper: https://arxiv.org/abs/2608.16718v1  
+  title: CytoFormer: A Molecularly Supervised Cell Foundation Model for Histopathology Cell Classification
+
+- **DeepSeq**  
+  paper: https://arxiv.org/abs/2506.13817v1  
+  title: DeepSeq: High-Throughput Single-Cell RNA Sequencing Data Labeling via Web Search-Augmented Agentic Generative AI Foundation Models
+
+- **Single-Cell Cross-Modal Transfer by Adversarial Fine-Tuning of Foundation Models**  
+  paper: https://arxiv.org/abs/2606.07676v1
+
+- **Cell-o1**  
+  paper: https://arxiv.org/abs/2506.02911v1  
+  title: Cell-o1: Training LLMs to Solve Single-Cell Reasoning Puzzles with Reinforcement Learning
+
+- **Multi-modal single-cell foundation models via dynamic token adaptation**  
+  paper: https://arxiv.org/abs/2504.13049v1
+
+- **Adapting a pre-trained single-cell foundation model to spatial gene expression generation from histology images**  
+  paper: https://arxiv.org/abs/2603.19766v1
+
+- **A Foundation Model for Spatial Proteomics**  
+  paper: https://arxiv.org/abs/2506.03373v1
+
 ## Recent papers (2025-2026)
 
 - Mix-Geneformer: Unified Representation Learning for Human and Mouse scRNA-seq Data  
@@ -170,6 +208,26 @@ https://arxiv.org/abs/2607.17227v2
   https://arxiv.org/abs/2611.05410v1
 - Open World Knowledge Aided Single-Cell Foundation Model with Robust Cross-Modal Cell-Language Pre-training  
   https://arxiv.org/abs/2601.05648v1
+- Cell2Text: Multimodal LLM for Generating Single-Cell Descriptions from RNA-Seq Data  
+  https://arxiv.org/abs/2509.24840v2
+- scAnyOmics: Foundation-Model Distillation for Any-to-Any Completion of Multi-omics Virtual Cells  
+  https://arxiv.org/abs/2610.41399v1
+- CellSymphony: Deciphering the molecular and phenotypic orchestration of cells with single-cell pathomics  
+  https://arxiv.org/abs/2508.10232v1
+- CytoFormer: A Molecularly Supervised Cell Foundation Model for Histopathology Cell Classification  
+  https://arxiv.org/abs/2608.16718v1
+- DeepSeq: High-Throughput Single-Cell RNA Sequencing Data Labeling via Web Search-Augmented Agentic Generative AI Foundation Models  
+  https://arxiv.org/abs/2506.13817v1
+- Single-Cell Cross-Modal Transfer by Adversarial Fine-Tuning of Foundation Models  
+  https://arxiv.org/abs/2606.07676v1
+- Cell-o1: Training LLMs to Solve Single-Cell Reasoning Puzzles with Reinforcement Learning  
+  https://arxiv.org/abs/2506.02911v1
+- Multi-modal single-cell foundation models via dynamic token adaptation  
+  https://arxiv.org/abs/2504.13049v1
+- Adapting a pre-trained single-cell foundation model to spatial gene expression generation from histology images  
+  https://arxiv.org/abs/2603.19766v1
+- A Foundation Model for Spatial Proteomics  
+  https://arxiv.org/abs/2506.03373v1
 
 ## Notes
 
