@@ -6,7 +6,7 @@ Last updated: 2026-11-05
 
 ## Expanded model index
 
-Current tracked model count: **50**
+Current tracked model count: **61**
 
 ### Canonical / directly model-centric papers
 
@@ -186,6 +186,10 @@ https://arxiv.org/abs/2607.17227v2
 - **OmniCellTOSG**  
   paper: https://arxiv.org/abs/2504.02148v2  
   title: The First Cell Text-Omic Signaling Graphs Dataset for Graph Language Foundation Modeling
+
+- **ScDifformer**  
+  code: https://github.com/yaoqiqi17732/scDifformer  
+  note: A single-cell large language model with context-awareness and a denoising diffusion module; no public arXiv paper was found in the verified literature sweep for this repo’s catalog.
 
 ## Recent papers (2025-2026)
 
