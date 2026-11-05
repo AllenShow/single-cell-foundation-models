@@ -6,7 +6,7 @@ Last updated: 2026-11-05
 
 ## Expanded model index
 
-Current tracked model count: **40**
+Current tracked model count: **50**
 
 ### Canonical / directly model-centric papers
 
@@ -151,6 +151,41 @@ https://arxiv.org/abs/2607.17227v2
 
 - **A Foundation Model for Spatial Proteomics**  
   paper: https://arxiv.org/abs/2506.03373v1
+
+- **SAGE-FM**  
+  paper: https://arxiv.org/abs/2601.15504v1  
+  title: A lightweight and interpretable spatial transcriptomics foundation model
+
+- **CellWorld**  
+  paper: https://arxiv.org/abs/2608.06659v1  
+  title: From Gene-Level Reconstruction to Latent Cell Prediction in Spatial Transcriptomics Foundation Models
+
+- **Towards a knowledge-enhanced single-cell foundation model**  
+  paper: https://arxiv.org/abs/2609.14970v1
+
+- **Predictive single-cell foundation model for gene regulation and aging with privacy-preserving tabular learning**  
+  paper: https://arxiv.org/abs/2607.19400v1
+
+- **Systematic Evaluation of Single-Cell Foundation Model Interpretability**  
+  paper: https://arxiv.org/abs/2602.17532v1  
+  title: Reveals Attention Captures Co-Expression Rather Than Unique Regulatory Signal
+
+- **Auditing pretraining contamination in single-cell foundation model benchmarks**  
+  paper: https://arxiv.org/abs/2607.20572v1
+
+- **Open World Knowledge Aided Single-Cell Foundation Model**  
+  paper: https://arxiv.org/abs/2601.05648v1
+
+- **Towards Applying Large Language Models to Complement Single-Cell Foundation Models**  
+  paper: https://arxiv.org/abs/2507.10039v1
+
+- **CellPlex**  
+  paper: https://arxiv.org/abs/2611.02506v1  
+  title: Benchmarking Single-Cell Spatial Proteomics Prediction from H&E
+
+- **OmniCellTOSG**  
+  paper: https://arxiv.org/abs/2504.02148v2  
+  title: The First Cell Text-Omic Signaling Graphs Dataset for Graph Language Foundation Modeling
 
 ## Recent papers (2025-2026)
 
