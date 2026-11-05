@@ -2,11 +2,11 @@
 
 Curated links for single-cell foundation models, recent papers, and benchmark/analysis work.
 
-Last updated: 2026-11-04
+Last updated: 2026-11-05
 
 ## Expanded model index
 
-Current tracked model count: **22**
+Current tracked model count: **30**
 
 ### Canonical / directly model-centric papers
 
@@ -79,6 +79,41 @@ https://arxiv.org/abs/2607.17227v2
 - **Vision foundation model for single-cell biology via spatial gene cartography**  
   paper: https://arxiv.org/abs/2607.14163v1
 
+- **scMamba**  
+  paper: https://arxiv.org/abs/2506.20697v1  
+  title: scMamba: A Scalable Foundation Model for Single-Cell Multi-Omics Integration Beyond Highly Variable Feature Selection
+
+- **GeneMamba**  
+  paper: https://arxiv.org/abs/2504.16956v4  
+  title: GeneMamba: An Efficient and Effective Foundation Model on Single Cell Data
+
+- **ChromFound**  
+  paper: https://arxiv.org/abs/2505.12638v3  
+  title: ChromFound: Towards A Universal Foundation Model for Single-Cell Chromatin Accessibility Data
+
+- **TEDDY**  
+  paper: https://arxiv.org/abs/2503.03485v2  
+  title: TEDDY: A Family Of Foundation Models For Understanding Single Cell Biology
+
+- **VOICE**  
+  paper: https://arxiv.org/abs/2608.08366v2  
+  title: VOICE: A Vision-Omics Foundation Model Integrating Direct and Retrieval-Based Prediction of In-situ Single-Cell Gene Expression
+
+- **CellxPert**  
+  paper: https://arxiv.org/abs/2605.00930v1  
+  title: CellxPert: Inference-Time MCMC Steering of a Multi-Omics Single-Cell Foundation Model for In-Silico Perturbation
+
+- **Lingshu-Cell**  
+  paper: https://arxiv.org/abs/2603.25240v1  
+  title: Lingshu-Cell: A generative cellular world model for transcriptome modeling toward virtual cells
+
+- **GenoHoption**  
+  paper: https://arxiv.org/abs/2411.06331v1  
+  title: GenoHoption: Bridging Gene Network Graphs and Single-Cell Foundation Models
+
+- **Open World Knowledge Aided Single-Cell Foundation Model**  
+  paper: https://arxiv.org/abs/2601.05648v1
+
 ## Recent papers (2025-2026)
 
 - Mix-Geneformer: Unified Representation Learning for Human and Mouse scRNA-seq Data  
@@ -115,9 +150,29 @@ https://arxiv.org/abs/2607.17227v2
   https://arxiv.org/abs/2506.11152v4
 - A vision foundation model for single-cell biology via spatial gene cartography  
   https://arxiv.org/abs/2607.14163v1
+- scMamba: A Scalable Foundation Model for Single-Cell Multi-Omics Integration Beyond Highly Variable Feature Selection  
+  https://arxiv.org/abs/2506.20697v1
+- GeneMamba: An Efficient and Effective Foundation Model on Single Cell Data  
+  https://arxiv.org/abs/2504.16956v4
+- ChromFound: Towards A Universal Foundation Model for Single-Cell Chromatin Accessibility Data  
+  https://arxiv.org/abs/2505.12638v3
+- TEDDY: A Family Of Foundation Models For Understanding Single Cell Biology  
+  https://arxiv.org/abs/2503.03485v2
+- VOICE: A Vision-Omics Foundation Model Integrating Direct and Retrieval-Based Prediction of In-situ Single-Cell Gene Expression  
+  https://arxiv.org/abs/2608.08366v2
+- CellxPert: Inference-Time MCMC Steering of a Multi-Omics Single-Cell Foundation Model for In-Silico Perturbation  
+  https://arxiv.org/abs/2605.00930v1
+- Lingshu-Cell: A generative cellular world model for transcriptome modeling toward virtual cells  
+  https://arxiv.org/abs/2603.25240v1
+- GenoHoption: Bridging Gene Network Graphs and Single-Cell Foundation Models  
+  https://arxiv.org/abs/2411.06331v1
+- Rethinking One Gene, One Token: Transcriptome-Aware Tokenization for Single-Cell Foundation Models  
+  https://arxiv.org/abs/2611.05410v1
+- Open World Knowledge Aided Single-Cell Foundation Model with Robust Cross-Modal Cell-Language Pre-training  
+  https://arxiv.org/abs/2601.05648v1
 
 ## Notes
 
 - This repository is link-first and intentionally lightweight, aiming to keep a verifiable catalog of recent and benchmark-relevant single-cell foundation model work.
-- The list now includes both core model papers and benchmark/related model families that are frequently discussed in the 2025-2026 single-cell foundation-model literature, plus newer spatial and multimodal single-cell foundation work.
+- The list now includes both core model papers and benchmark/related model families that are frequently discussed in the 2025-2026 single-cell foundation-model literature, plus newer spatial, multimodal, and sequence-modeling single-cell foundation work.
 - For some benchmark-tracked models, canonical public repos or paper pages are still fragmented across preprints and benchmark reports; this list keeps the most verifiable links front and center.
