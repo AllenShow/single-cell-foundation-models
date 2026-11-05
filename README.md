@@ -188,8 +188,8 @@ https://arxiv.org/abs/2607.17227v2
   title: The First Cell Text-Omic Signaling Graphs Dataset for Graph Language Foundation Modeling
 
 - **ScDifformer**  
-  code: https://github.com/yaoqiqi17732/scDifformer  
-  note: A single-cell large language model with context-awareness and a denoising diffusion module; no public arXiv paper was found in the verified literature sweep for this repo’s catalog.
+  project: https://github.com/yaoqiqi17732/scDifformer  
+  note: A single-cell large language model with context-awareness and a denoising diffusion module. After a broader public-source check, no verified paper/preprint URL was found for this project, so the GitHub repo is the authoritative public reference for this entry.
 
 ## Recent papers (2025-2026)
 
